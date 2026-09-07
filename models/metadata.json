@@ -1,0 +1,5 @@
+{
+    "model_type": "Ridge_with_Quadratic_Feature",
+    "n_features_in": 54,
+    "cross_val_rmse": 4.817773423888581e-10
+}
